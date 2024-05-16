@@ -1,6 +1,6 @@
 ---
 title: "hw-00: Meet the Toolkit"
-author: "Greg Chism"
+author: "Violeta Keifer"
 format: html
 editor: visual
 ---
@@ -107,7 +107,7 @@ print("three") # hashes do not cancel each other out # print(3)
 Now let's actually store something in `R`. This *something* will be called an **object**. Objects can contain information of different *data types*:
 
 |               |               |                                              |
-|---------------|---------------|----------------------------------------------|
+|----------------|----------------|----------------------------------------|
 | **Numeric**   | Numbers       | `c(1, 2.4, 3.14, 4)`                         |
 | **Character** | Text          | `c("1", "blue", "fun", "monster")`           |
 | **Logical**   | True or false | `c(TRUE, FALSE, TRUE, FALSE)`                |
